@@ -1,0 +1,22 @@
+{
+  "livros": [
+    {
+      "id": 1,
+      "nome": "Eloquente JavaScript",
+      "autor": "Marijn Haverbeke",
+      "preco": "5.00"
+    },
+    {
+      "nome": "Happy Potter e a Pedra Filosofal",
+      "autor": "J. K. Rowling",
+      "preco": "39.90",
+      "id": 2
+    },
+    {
+      "nome": "Homo Ludens",
+      "autor": "J. Huizinga",
+      "preco": "25.50",
+      "id": 3
+    }
+  ]
+}
